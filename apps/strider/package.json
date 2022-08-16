@@ -123,7 +123,7 @@
     "swig": "^0.14.0",
     "thirty-two": "^1.0.1",
     "touch": "^3.1.0",
-    "validator": "^7.0.0",
+    "validator": "^13.7.0",
     "winston": "^2.2.0"
   },
   "devDependencies": {
